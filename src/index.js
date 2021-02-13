@@ -9,7 +9,7 @@ console.log("Running... stop with ctrl + c");
 
 async function main(){
 current = await firstline(`${config.osu_dir}/ipc.txt`, { lineEnding: '\r' });
-if (last == current) {
+if (last == current || current == "") {
     return;
 } else {
     last = current;
