@@ -5,7 +5,7 @@ Nodejs (v14 is tested)
 
 NPM
 
-An osu! Install
+An osu! Cutting Edge Install
 
 A file named `ipc.txt` in the install folder
 
