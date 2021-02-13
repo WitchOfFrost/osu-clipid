@@ -2,7 +2,12 @@
 
 ## Requirements
 Nodejs (v14 is tested)
+
 NPM
+
+An osu! Install
+
+A file named `ipc.txt` in the install folder
 
 ## Basic Install
 `git clone https://github.com/WitchOfFrost/osu-clipid.git && cd osu-clipid/src`
